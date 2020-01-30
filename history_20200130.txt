@@ -1,0 +1,52 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox&
+    4* 
+    5  git clone https://github.com/Artemij7/RTR108
+    6  ls -l
+    7  cd RTR108/
+    8  nano git-upload
+    9  ls -l
+   10  chmod
+   11  chmod 744 git-upload 
+   12  ls -l
+   13  nano README.md 
+   14  ./git-upload 20200130_10_45
+   15  ls -l
+   16  cd ..
+   17  rm -rf RTR108/
+   18  git clone https://github.com/Artemij7/RTR108
+   19  cd RTR108/
+   20  ls -l
+   21  pwd
+   22  python
+   23  ipython
+   24  nano python_tests.py
+   25  cat python_tests.py 
+   26  python phython_tests.py
+   27  python python_tests.py
+   28* 
+   29  python python_tests.py
+   30  python --version
+   31  python python_tests.py
+   32  python2 python_tests.py
+   33  nano python_tests.py
+   34  python python_tests.py
+   35  nano python_tests.py
+   36  cp python_tests.py phyton_tests_auto_exe.py
+   37  nano python_tests_auto_exe.py 
+   38  nano phython_tests_auto_exe.py 
+   39  cp python_tests.py pyton_tests_auto_exe.py
+   40  nano python_tests_auto_exe.py 
+   41  ls -l
+   42  rm phyton_tests_auto_exe.py 
+   43  ls -l
+   44  nano pyton_tests_auto_exe.py 
+   45  idle &
+   46  python2 -m SimpleHTTPServer 8000
+   47  python -m http.server 8001
+   48  las -l
+   49  ls -l
+   50  ls -la
+   51  history
+   52  history >> history_20200130.txt
