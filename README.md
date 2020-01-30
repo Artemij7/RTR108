@@ -1,3 +1,3 @@
 # RTR108
-Repository for 2 semestr - elektro klade
+Datormācība(speckurss) - elektroniska klade
 ## 1. nodarbība
