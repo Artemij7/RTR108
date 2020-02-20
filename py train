@@ -1,0 +1,25 @@
+hours = float(input('Enter Hours: '))
+rate = float(input('Enter Rate: '))
+if hours < 40:
+    pay = float(hours * rate)
+    print ("Pay: " + str(pay))
+else:
+    pay = float(((hours-40) *  (1.5*rate)) + (40*rate))
+    print ("Pay: " + str(pay))
+############################################
+x = float(input('Please, enter a score(0,0 - 1,0): '))
+if x>1:
+    print('error')
+elif x<0:
+    print("error")
+elif x>=0.9:
+    print("Mark A")
+elif x>=0.8:
+    print("Mark B")
+elif x>=0.7:
+    print("Mark C")
+elif x>=0.6:
+    print("Mark D")
+else :
+    print("Mark F")
+########################################################
